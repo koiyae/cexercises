@@ -9,4 +9,5 @@ int main (void){
     d = a + b + c;
 
     printf("O resultado da soma é: %d\n", d);
+    printf("Seja feliz!\n");
 }
